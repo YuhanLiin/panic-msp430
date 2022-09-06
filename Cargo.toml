@@ -1,6 +1,6 @@
 [package]
 name = "panic-msp430"
-version = "0.3.0"
+version = "0.4.0"
 authors = ["YuhanLiin <linyuhan0315@hotmail.com>"]
 keywords = ["panic-handler", "panic", "msp430"]
 license = "MIT OR Apache-2.0"
@@ -11,4 +11,4 @@ documentation = "https://docs.rs/panic-msp430"
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
 [dependencies]
-msp430 = "0.3.0"
+msp430 = "0.4.0"
